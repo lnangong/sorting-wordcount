@@ -1,4 +1,4 @@
-multithreaded external sorting&wordcount
+Multithreaded external sorting&wordcount
 ========================================
 Copyright (c) 2014, Long(Ryan) Nangong.  
 All right reserved.

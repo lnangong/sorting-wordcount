@@ -13,7 +13,8 @@ Created on: Oct. 9, 2014
   c)Execute binary code with input file argument.
 
 2. Distributed external sorting via message passing interface(MPI).  
-
+  
+  Assume you have deployed the distributed processing module MPI on your cluster, then follow by next steps:  
   a)Compile source code with Makefile.  
   b)Configure the host file with worker node ip address.  
   c)Set number of running processes, host file, and input file argument in the run.sh scrip file.   

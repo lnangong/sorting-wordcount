@@ -1,4 +1,12 @@
-/***MPI_sort.cpp***/
+/**
+ *	MPI_sort.cpp
+ *
+ *	Copyright (c) 2014, Long(Ryan) Nangong.
+ *	All right reserved.
+ *
+ *      Email: lnangong@hawk.iit.edu
+ *	Created on: Oct. 9, 2014
+ */
 #include <mpi.h>
 #include <iostream>
 #include <fstream>

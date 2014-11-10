@@ -1,11 +1,11 @@
 /**
- * Multithreaded word-count program
+ *	Multithreaded word-count program
  * 
- * Author: Long Nangong 
+ *	Copyright (c) 2014, Long(Ryan) Nangong.
+ *	All right reserved.
  *
- * Email: lnangong@hawk.iit.edu
- * 
- * Created on: 10/9/2014 
+ *      Email: lnangong@hawk.iit.edu
+ * 	Created on: 10/9/2014 
  */
 
 #include <iostream>
